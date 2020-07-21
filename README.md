@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**jordienr/jordienr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+### Front End
+- HTML, CSS, SCSS, Bootstrap, TailwindCSS, Vue, React
+- Firebase, Python, Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### UX
+- Usability, UI Design, UX Research, Copywriting
+- Wireframing, Prototyping (Figma, Adobe Xd), Google Analytics
+
+## CV
+[cv.jordienric.com](https://cv.jordienric.com/)
+
+## About
+I am always learning new stuff so this list is just an overall view of my most used skills
