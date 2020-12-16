@@ -4,6 +4,7 @@
 
 ### Front End
 - HTML, CSS, SCSS, Bootstrap, TailwindCSS, Vue, React
+- Jest, Vue-test-utils
 - Firebase, Python, Django
 
 ### UX
