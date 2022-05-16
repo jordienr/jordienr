@@ -1,15 +1,6 @@
-# Hey 👋
-
-## Skills
-
-### Engineering
-- HTML, CSS, SCSS, Bootstrap, TailwindCSS, Vue, React
-- Jest, Vue-test-utils
-- Firebase, Python, Django
-
-### Product Design
-- Usability, UI Design, UX Research, Copywriting
-- Wireframing, Prototyping (Figma, Adobe Xd), Google Analytics
+# Jordi Enric, Designer and Developer
+Palma, Illes Balears, Spain.
 
 ## About
-I am always learning new stuff so this list is just an overall view of my most used skills
+Self-taught software developer with a heavy focus on frontend applications & UI design.
+I have a great interest in design systems, web accessibility & frontend architecture.
