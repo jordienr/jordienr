@@ -1,4 +1,3 @@
-Jordi Enric, frontend @ supabase  
-Mallorca, Spain
+Jordi - frontend @ supabase
 
 [jordienric.com](https://jordienric.com)
