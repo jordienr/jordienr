@@ -1,6 +1,4 @@
-# Jordi Enric, Designer and Developer
-Palma, Illes Balears, Spain.
+Jordi Enric, frontend @ supabase
+Mallorca, Spain
 
-## About
-Self-taught software developer with a heavy focus on frontend applications & UI design.
-I have a great interest in design systems, web accessibility & frontend architecture.
+[jordienric.com](https://jordienric.com)
